@@ -25,7 +25,7 @@ A responsive React web application for the Little Lemon Mediterranean restaurant
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
